@@ -2,7 +2,228 @@
   "type": "excalidraw",
   "version": 2,
   "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
-  "elements": [],
+  "elements": [
+    {
+      "id": "WUL7VPTQ8BvQ-KqoYZwoG",
+      "type": "freedraw",
+      "x": 149.375,
+      "y": 148.84375,
+      "width": 0.00390625,
+      "height": 10.515625,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": null,
+      "seed": 1541313377,
+      "version": 7,
+      "versionNonce": 159189391,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789536051352,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.00390625,
+          1.515625
+        ],
+        [
+          0.00390625,
+          4.515625
+        ],
+        [
+          0.00390625,
+          7.515625
+        ],
+        [
+          0.00390625,
+          10.515625
+        ],
+        [
+          0.00390625,
+          10.515625
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.00390625,
+        10.515625
+      ]
+    },
+    {
+      "id": "oirYDg0aNAc5JpVKPh-qr",
+      "type": "freedraw",
+      "x": 151.046875,
+      "y": 135.421875,
+      "width": 4.6015625,
+      "height": 2.171875,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aV",
+      "roundness": null,
+      "seed": 1192484687,
+      "version": 9,
+      "versionNonce": 1301507567,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789536061387,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.74609375,
+          0.00390625
+        ],
+        [
+          2.74609375,
+          0.00390625
+        ],
+        [
+          2.74609375,
+          1.00390625
+        ],
+        [
+          3.73828125,
+          1.00390625
+        ],
+        [
+          4.6015625,
+          2.171875
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        4.6015625,
+        2.171875
+      ]
+    },
+    {
+      "id": "-lwJhz9BnRZTKUU5ZpawI",
+      "type": "freedraw",
+      "x": 173,
+      "y": 151.375,
+      "width": 12.08984375,
+      "height": 7.84375,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aW",
+      "roundness": null,
+      "seed": 881243233,
+      "version": 16,
+      "versionNonce": 640910177,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1789536061884,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.99609375,
+          1.67578125
+        ],
+        [
+          -3.65625,
+          5.3359375
+        ],
+        [
+          -4.65625,
+          7.40234375
+        ],
+        [
+          -4.65625,
+          5.58203125
+        ],
+        [
+          -2.6328125,
+          3.58203125
+        ],
+        [
+          -0.6328125,
+          1.55859375
+        ],
+        [
+          2.37890625,
+          0.55859375
+        ],
+        [
+          3.3984375,
+          -0.44140625
+        ],
+        [
+          3.3984375,
+          0.5
+        ],
+        [
+          3.3984375,
+          1.328125
+        ],
+        [
+          3.3984375,
+          3.328125
+        ],
+        [
+          5.4140625,
+          4.328125
+        ],
+        [
+          7.43359375,
+          4.328125
+        ],
+        [
+          7.43359375,
+          4.328125
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        7.43359375,
+        4.328125
+      ]
+    }
+  ],
   "appState": {
     "gridSize": 20,
     "gridStep": 5,

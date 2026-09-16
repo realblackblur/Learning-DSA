@@ -15,4 +15,8 @@ const num2 = 1429240;
 console.log(sumOfDigits(num1));
 console.log(sumOfDigits(num2));
 console.log(sumOfDigits(0));
+// Output:
+// 15
+// 22
+// 0
 //# sourceMappingURL=problem_2.js.map
